@@ -1,19 +1,10 @@
-Requerments
-->Scala 
-->Sbt
 
-
-Clone the Github Repository 
->cd goose
-and after run the commands shown below
-
-1)Compile
-You can simply run 
+#Compile 
 >sbt compile
 
-2)Run
+#Run
 >sbt run
 
-3)Test Files of the project
+#Test Files of the project
 You can test the projects function by typing 
 >sbt test
