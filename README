@@ -1,10 +1,10 @@
 
-#Compile 
+# Compile 
 >sbt compile
 
-#Run
+# Run
 >sbt run
 
-#Test Files of the project
+# Test Files of the project
 You can test the projects function by typing 
 >sbt test
