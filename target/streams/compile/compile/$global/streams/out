@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/alex/Documents/gooseGame/goose/src/main/scala/GameControllers/Space.scala:2:25: imported `Player' is permanently hidden by definition of class Player in package GameControllers[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport GameControllers.{Player}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
