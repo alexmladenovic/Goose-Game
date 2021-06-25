@@ -1,3 +1,5 @@
+I assumed that we would have only one game so i used the singleton pattern for some classes because we need only one instance.
+But that can change easily if we would like to have more that one game running at the same time.
 
 # Compile 
 >sbt compile
