@@ -1,12 +1,8 @@
-I assumed that we would have only one game so i used the singleton pattern for some classes because we need only one instance.
-But that can change easily if we would like to have more that one game running at the same time.
+**Compile** 
+```sbt compile```
 
-# Compile 
->sbt compile
+**Run**
+```sbt run```
 
-# Run
->sbt run
-
-# Test Files of the project
-You can test the projects function by typing 
->sbt test
+**Test Files of the project**
+```sbt test```
